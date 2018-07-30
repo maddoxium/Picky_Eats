@@ -1,1 +1,2 @@
-# Picky_Eats
+# PickyEats
+A dish recommendation app specific to restaurants.

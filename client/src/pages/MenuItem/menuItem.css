@@ -1,0 +1,38 @@
+.menuJumbo {
+	width: 90%;
+    height: 100px;
+    background-color: transparent;
+    background-size: 100% 100%;
+    color: white;
+    margin-left:60px;
+    margin-top: 5px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+#restName {
+    margin-bottom: 30px;
+}
+
+.topdesc {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    padding: 10px;
+}
+
+.resButton {
+    margin: 3% 0 0 15px;
+    height: 50px;
+    font-size: 15px;
+    float: left;
+    padding: 0 20px;
+}
+
+#reviewbox {
+    min-height: 400px;
+}
+
+.yourself {
+    background-color: rgb(226, 68, 40);
+}

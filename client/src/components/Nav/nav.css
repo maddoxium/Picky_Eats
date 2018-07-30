@@ -1,0 +1,40 @@
+#logo {
+    font-size: 45px;
+    padding: 10px 16px;
+    font-family: 'Yellowtail', cursive;
+    float: left;
+}
+
+#nav {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0 7%;
+    overflow: hidden;
+    background-color: transparent;
+    height: 70px;
+}
+
+#imgId {
+    height:100px;
+    width:100px;
+}
+
+.user {
+    float: right;
+}
+
+.user:hover {
+    background-color: #682720;
+    height: 65px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    /* margin-right: 50px; */
+    padding: 25px 16px;
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}

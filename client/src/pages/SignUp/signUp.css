@@ -1,0 +1,20 @@
+.checkbox {
+    height: 15px;
+    width: 15px;
+    margin: 2% 10%;
+    box-shadow: none;
+    float: left;
+}
+
+.ownerCheckbox {
+    font-family: 'Quicksand', sans-serif;
+    float: left;
+    margin: 2% 0 0 -7%;
+    text-shadow: 2px 3px 5px black;
+}
+
+.error {
+    color: white;
+    font-size: 15px;
+    margin-left: 29px;
+}

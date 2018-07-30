@@ -1,0 +1,64 @@
+.half {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    color: white;
+}
+
+#price {
+    margin-left: 5%;
+}
+
+#priceInput {
+    width: 25%;
+    margin-left: 5px;
+}
+
+#addDone {
+    margin-left: 60%;
+}
+
+#addedMenu {
+    float: left;
+    background-color: rgba(255, 255, 255, 0.24);
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.menuItems {
+    margin: 20px 0 15px;
+    width: 70%;
+    float: left;
+    font-family: 'Quicksand', sans-serif;
+    text-shadow: 1px 2px 5px black;
+}
+
+.menuButtons {
+    margin: 12px 15px 0 0;
+    float: left;
+}
+
+.edit {
+    width: 40px;
+    height: 30px;
+    margin: 0 5px;
+    padding: 0;
+    font-size: 70%;
+}
+
+.delete {
+    font-size: 70%;
+    height: 30px;
+    margin-right: 2px;
+    background-color: rgb(255, 38, 0);
+}
+
+#done {
+    background-color: rgb(226, 68, 40);
+}
+
+.menuImage {
+    height: 15px;
+    margin-right: 7px;
+}
